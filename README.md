@@ -30,15 +30,18 @@ Project ⅠⅠ: Mop1 mutation affects recombination rate in maize
 
 Skills: Python (numpy, pandas, matplotlib), MySQL; cloud computing (ohio supercomputer center); DNA-seq, RNA-seq, Chip-seq, whole genome Bisulfite-seq and small RNA-seq analysis; BWA, GATK, Bcftools, Hisat2, Cuflinks, HTSeq, MACS2, ChromHMM, Bismark, Bowtie, Bedtools
 
-####Work Experiences
+###Work Experiences
+
 Graduate teaching assistant.   Intro. Biology Laboratory                                     2020/2019
 Data analyst                            Shanghai Transmedia                                                   2019
 Clinical coordinator                  Mingma Shanghai technologies                                   2018
 
-#####Poster presentations
+###Poster presentations
+
 Yin et al., Chromatin types and epigenomic features shape the differentiation of the maize subgenomes. Maize Genetics Meeting, 2021.
 
-######Publications
+###Publications
+
 Yin, Liangwei; Zhao, Meixia. Chromatin types and epigenomic features shape the differentiation of the maize subgenomes. In preparation for Plant Journal. Zhao, M., Ku, J. C., Liu, B., Yang, D., Yin, L., Ferrell, T. J., ... & Lisch, D. (2021).
 The mop1 mutation affects the recombination landscape in maize. Proceedings of the National Academy of Sciences, 118(7).
 Li, Tong; Yin, Liangwei; Stoll, Claire; Lisch, Damon; Zhao, Meixia. Imprinted conserved non-coding sequences and novel imprinted genes introduced by Mutator
