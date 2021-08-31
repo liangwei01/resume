@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Liangwei Yin
 
-You can use the [editor on GitHub](https://github.com/liangwei01/resume/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+M. Sc. Bioinformatics, Miami University, USA                                            2019-present
+B. Sc. Biotechnology, Hubei University of Chinese Medicine, China                       2018
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Research Experiences
 
-### Markdown
+Project Ⅰ: Chromatin and epigenetic features shape subgenome in maize
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+▪     Evolutionary features of whole genome duplication
+1.   Enrichment of genomic features of subgenome blocks
+2.   Calculate and compare evolutionary rates of genes at different chromosome region
+3.   Examine genome-wide DNA methylation.
+4.   Examine genome-wide siRNA pattern.
+▪     Dominant expression pattern under classified chromosome region
+1.   Transcriptome profiling of subgenome across multiple tissues
+2.   Protein abundance profiling of subgenome across multiple tissues
+3.   Perform ChIPseq analysis to examine histone marks enrichment of high- and low- expressed genes
+▪     Histone marks feature of subgenome genes
+1.   Perform ChIPseq analysis to examine histone modifications on differentially evolutionary genes
+2.   Histone features of classified chromosome region
+3.   Chromosome segments identification by ChroHMM
+4.   Examine enrichment of TE and histone marks surrounding classified genes
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Project ⅠⅠ: Mop1 mutation affects recombination rate in maize
+1.   Sample preparation for NGS experiment
+2.   Examine recombination rate of mop1 mutant and wildtype
+3.   SNPs calling analysis for Big DNA resequencing data
 
-- Bulleted
-- List
+Skills: Python (numpy, pandas, matplotlib), MySQL; cloud computing (ohio supercomputer center); DNA-seq, RNA-seq, Chip-seq, whole genome Bisulfite-seq and small RNA-seq analysis; BWA, GATK, Bcftools, Hisat2, Cuflinks, HTSeq, MACS2, ChromHMM, Bismark, Bowtie, Bedtools
 
-1. Numbered
-2. List
+####Work Experiences
+Graduate teaching assistant.   Intro. Biology Laboratory                                     2020/2019
+Data analyst                            Shanghai Transmedia                                                   2019
+Clinical coordinator                  Mingma Shanghai technologies                                   2018
 
-**Bold** and _Italic_ and `Code` text
+#####Poster presentations
+Yin et al., Chromatin types and epigenomic features shape the differentiation of the maize subgenomes. Maize Genetics Meeting, 2021.
 
-[Link](url) and ![Image](src)
-```
+######Publications
+Yin, Liangwei; Zhao, Meixia. Chromatin types and epigenomic features shape the differentiation of the maize subgenomes. In preparation for Plant Journal. Zhao, M., Ku, J. C., Liu, B., Yang, D., Yin, L., Ferrell, T. J., ... & Lisch, D. (2021).
+The mop1 mutation affects the recombination landscape in maize. Proceedings of the National Academy of Sciences, 118(7).
+Li, Tong; Yin, Liangwei; Stoll, Claire; Lisch, Damon; Zhao, Meixia. Imprinted conserved non-coding sequences and novel imprinted genes introduced by Mutator
+transposons provide new insights into the mechanisms of genomic imprinting. (Plant Cell, Under Review).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liangwei01/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
